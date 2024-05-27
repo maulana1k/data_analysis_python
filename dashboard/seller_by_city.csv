@@ -1,0 +1,612 @@
+,seller_city,seller_count
+0,sao paulo,694
+1,curitiba,127
+2,rio de janeiro,96
+3,belo horizonte,68
+4,ribeirao preto,52
+5,guarulhos,50
+6,ibitinga,49
+7,santo andre,45
+8,campinas,41
+9,maringa,40
+10,sao jose do rio preto,33
+11,sorocaba,32
+12,osasco,32
+13,sao bernardo do campo,32
+14,brasilia,28
+15,porto alegre,28
+16,londrina,26
+17,goiania,23
+18,joinville,22
+19,blumenau,21
+20,sao caetano do sul,20
+21,franca,20
+22,sao jose dos campos,18
+23,caxias do sul,18
+24,florianopolis,18
+25,limeira,17
+26,santos,16
+27,marilia,15
+28,mogi das cruzes,15
+29,bauru,14
+30,jundiai,14
+31,cascavel,14
+32,sao carlos,13
+33,maua,13
+34,barueri,13
+35,piracicaba,12
+36,uberlandia,12
+37,contagem,12
+38,presidente prudente,12
+39,rio claro,12
+40,atibaia,11
+41,araraquara,11
+42,carapicuiba,10
+43,juiz de fora,10
+44,arapongas,10
+45,cotia,10
+46,birigui,10
+47,sao jose dos pinhais,10
+48,catanduva,10
+49,praia grande,10
+50,taboao da serra,10
+51,itajai,10
+52,brusque,10
+53,americana,10
+54,canoas,9
+55,itaquaquecetuba,9
+56,diadema,9
+57,pedreira,9
+58,jaragua do sul,9
+59,santana de parnaiba,9
+60,porto ferreira,9
+61,salto,9
+62,palhoca,8
+63,apucarana,8
+64,assis,8
+65,pinhais,8
+66,colombo,8
+67,toledo,8
+68,niteroi,8
+69,divinopolis,8
+70,mogi guacu,8
+71,indaiatuba,8
+72,jacarei,7
+73,salvador,7
+74,sao goncalo,7
+75,sao roque,7
+76,fortaleza,7
+77,valinhos,7
+78,ponta grossa,6
+79,petropolis,6
+80,taubate,6
+81,uba,6
+82,fazenda rio grande,6
+83,ribeirao pires,6
+84,guaruja,6
+85,novo hamburgo,6
+86,santa rita do sapucai,6
+87,claudio,6
+88,lencois paulista,6
+89,sumare,5
+90,amparo,5
+91,sao jose,5
+92,recife,5
+93,foz do iguacu,5
+94,tubarao,5
+95,lajeado,5
+96,vila velha,5
+97,betim,5
+98,nova friburgo,5
+99,pocos de caldas,5
+100,braganca paulista,5
+101,penapolis,5
+102,nova iguacu,5
+103,itatiba,4
+104,francisco beltrao,4
+105,varginha,4
+106,jau,4
+107,botucatu,4
+108,itapecerica da serra,4
+109,itu,4
+110,itapevi,4
+111,jaguariuna,4
+112,garca,4
+113,jaci,4
+114,sete lagoas,4
+115,santa barbara d'oeste,4
+116,araguari,4
+117,borda da mata,4
+118,formiga,4
+119,aracatuba,4
+120,barra mansa,4
+121,votorantim,4
+122,cachoeiro de itapemirim,4
+123,fernandopolis,4
+124,votuporanga,4
+125,sp,4
+126,vitoria,4
+127,mirassol,4
+128,criciuma,4
+129,campo grande,4
+130,tupa,4
+131,umuarama,4
+132,paulinia,4
+133,capivari,4
+134,rio do sul,4
+135,barretos,4
+136,guaratuba,3
+137,uberaba,3
+138,sao joao de meriti,3
+139,ferraz de vasconcelos,3
+140,balneario camboriu,3
+141,sao bento do sul,3
+142,venancio aires,3
+143,vargem grande do sul,3
+144,artur nogueira,3
+145,pelotas,3
+146,osvaldo cruz,3
+147,navegantes,3
+148,morrinhos,3
+149,montes claros,3
+150,pompeia,3
+151,mogi mirim,3
+152,anapolis,3
+153,mesquita,3
+154,marechal candido rondon,3
+155,macae,3
+156,loanda,3
+157,laranjal paulista,3
+158,duque de caxias,3
+159,rolandia,3
+160,jacutinga,3
+161,araras,3
+162,santa maria,3
+163,santa terezinha de itaipu,3
+164,sao paulo - sp,3
+165,aruja,3
+166,carazinho,3
+167,boituva,3
+168,tres coracoes,3
+169,conselheiro lafaiete,3
+170,tatui,3
+171,batatais,3
+172,campo largo,3
+173,cambe,3
+174,chapeco,3
+175,serra negra,3
+176,sarandi,3
+177,bento goncalves,3
+178,serra,3
+179,suzano,3
+180,tabatinga,3
+181,cachoeirinha,3
+182,porto belo,2
+183,itauna,2
+184,tanabi,2
+185,santa barbara d´oeste,2
+186,itapetininga,2
+187,pitanga,2
+188,belford roxo,2
+189,imbituba,2
+190,cajamar,2
+191,montenegro,2
+192,itajobi,2
+193,armacao dos buzios,2
+194,itaipulandia,2
+195,indaial,2
+196,araxa,2
+197,santa rosa,2
+198,ipatinga,2
+199,ipira,2
+200,rodeio,2
+201,campo bom,2
+202,jaboticabal,2
+203,vicosa,2
+204,rio bonito,2
+205,lorena,2
+206,mairipora,2
+207,ribeirao das neves,2
+208,registro,2
+209,lauro de freitas,2
+210,laurentino,2
+211,canoinhas,2
+212,campo limpo paulista,2
+213,lagoa da prata,2
+214,lages,2
+215,cariacica,2
+216,araucaria,2
+217,sombrio,2
+218,joao pessoa,2
+219,andradas,2
+220,videira,2
+221,pradopolis,2
+222,dores de campos,2
+223,caruaru,2
+224,jaguaruna,2
+225,treze tilias,2
+226,castro,2
+227,igaracu do tiete,2
+228,natal,2
+229,viamao,2
+230,cafelandia,2
+231,gaspar,2
+232,garopaba,2
+233,sao jose do rio pardo,2
+234,franco da rocha,2
+235,timbo,2
+236,tiradentes,2
+237,cosmopolis,2
+238,formosa,2
+239,flores da cunha,2
+240,bariri,2
+241,cuiaba,2
+242,curitibanos,2
+243,sao leopoldo,2
+244,sao ludgero,2
+245,sao pedro,2
+246,farroupilha,2
+247,xanxere,2
+248,estancia velha,2
+249,paulo lopes,2
+250,patos de minas,2
+251,pato branco,2
+252,embu das artes,2
+253,echapora,2
+254,dois corregos,2
+255,sao joao del rei,2
+256,coronel fabriciano,2
+257,pinhalzinho,2
+258,uruacu,2
+259,teresopolis,2
+260,guaira,2
+261,baependi,2
+262,volta redonda,2
+263,conchal,2
+264,alfenas,2
+265,hortolandia,2
+266,nilopolis,2
+267,bady bassitt,2
+268,nova odessa,2
+269,viana,1
+270,presidente epitacio,1
+271,piracanjuba,1
+272,presidente getulio,1
+273,vicente de carvalho,1
+274,pedregulho,1
+275,taruma,1
+276,queimados,1
+277,pinhalao,1
+278,ribeirao preto / sao paulo,1
+279,tocantins,1
+280,resende,1
+281,pitangueiras,1
+282,vitoria de santo antao,1
+283,pirassununga,1
+284,pato bragado,1
+285,pederneiras,1
+286,poa,1
+287,torres,1
+288,pirituba,1
+289,tambau,1
+290,tres coroas,1
+291,pilar do sul,1
+292,ponte nova,1
+293,picarras,1
+294,tiete,1
+295,pinhais/pr,1
+296,timoteo,1
+297,taio,1
+298,porto seguro,1
+299,presidente bernardes,1
+300,porto velho,1
+301,portoferreira,1
+302,pouso alegre,1
+303,terra boa,1
+304,pedro leopoldo,1
+305,pedrinhas paulista,1
+306,prados,1
+307,teixeira soares,1
+308,portao,1
+309,teresina,1
+310,sao paulop,1
+311,tabao da serra,1
+312,sao  jose dos pinhais,1
+313,sao francisco do sul,1
+314,sao bernardo do capo,1
+315,saquarema,1
+316,são paulo,1
+317,sbc,1
+318,sao bento,1
+319,sao  paulo,1
+320,vargem grande paulista,1
+321,sao joao da boa vista,1
+322,santo antonio de posse,1
+323,sbc/sp,1
+324,santo antonio de padua,1
+325,santo antonio da patrulha,1
+326,santo angelo,1
+327,santo andre/sao paulo,1
+328,scao jose do rio pardo,1
+329,uruguaiana,1
+330,sao joaquim da barra,1
+331,ribeirao pretp,1
+332,sao luis,1
+333,sao paulo sp,1
+334,sao paulo / sao paulo,1
+335,sao pauo,1
+336,ubatuba,1
+337,sao paluo,1
+338,sao miguel do oeste,1
+339,sao miguel d'oeste,1
+340,sao jose dos pinhas,1
+341,sapiranga,1
+342,sao pedro da aldeia,1
+343,sao sebastiao,1
+344,parnamirim,1
+345,uniao da vitoria,1
+346,sao sebastiao da grama/sp,1
+347,sao jose do rio pret,1
+348,sao vicente,1
+349,varzea alegre,1
+350,santa terezinha de goias,1
+351,santa rosa de viterbo,1
+352,rio de janeiro / rio de janeiro,1
+353,rio verde,1
+354,rio negrinho,1
+355,rio grande,1
+356,sp / sp,1
+357,rio do oeste,1
+358,"rio de janeiro, rio de janeiro, brasil",1
+359,rio de janeiro \rio de janeiro,1
+360,tres rios,1
+361,santa maria da serra,1
+362,vendas@creditparts.com.br,1
+363,rio das pedras,1
+364,vera cruz,1
+365,tres de maio,1
+366,vespasiano,1
+367,rio branco,1
+368,riberao preto,1
+369,soledade,1
+370,robeirao preto,1
+371,vassouras,1
+372,rolante,1
+373,santa cruz do sul,1
+374,serra redonda,1
+375,santa cecilia,1
+376,santa catarina,1
+377,serrana,1
+378,triunfo,1
+379,varzea paulista,1
+380,sertanopolis,1
+381,santa barbara d oeste,1
+382,sando andre,1
+383,sinop,1
+384,sabara,1
+385,socorro,1
+386,s jose do rio preto,1
+387,ronda alta,1
+388,passos,1
+389,04482255,1
+390,paranavai,1
+391,castro pires,1
+392,congonhal,1
+393,condor,1
+394,concordia,1
+395,colorado,1
+396,colatina,1
+397,clementina,1
+398,cianorte,1
+399,cerqueira cesar,1
+400,centro,1
+401,caucaia,1
+402,cataguases,1
+403,cascavael,1
+404,cordeiropolis,1
+405,carmo do cajuru,1
+406,carmo da mata,1
+407,cariacica / es,1
+408,caratinga,1
+409,carapicuiba / sao paulo,1
+410,cananeia,1
+411,campos novos,1
+412,campos dos goytacazes,1
+413,campo mourao,1
+414,campo magro,1
+415,campo do meio,1
+416,congonhas,1
+417,cordilheira alta,1
+418,goioere,1
+419,eusebio,1
+420,garulhos,1
+421,gama,1
+422,fronteira,1
+423,francisco morato,1
+424,formosa do oeste,1
+425,floresta,1
+426,floranopolis,1
+427,ferraz de  vasconcelos,1
+428,fernando prestes,1
+429,feira de santana,1
+430,extrema,1
+431,eunapolis,1
+432,cornelio procopio,1
+433,erechim,1
+434,entre rios do oeste,1
+435,engenheiro coelho,1
+436,embu guacu,1
+437,dracena,1
+438,domingos martins,1
+439,divisa nova,1
+440,descalvado,1
+441,cruzeiro,1
+442,cravinhos,1
+443,coxim,1
+444,campina grande,1
+445,campina das missoes,1
+446,campanha,1
+447,aparecida de goiania,1
+448,bage,1
+449,avare,1
+450,auriflama/sp,1
+451,auriflama,1
+452,arvorezinha,1
+453,arraial d'ajuda (porto seguro),1
+454,arinos,1
+455,ararangua,1
+456,araquari,1
+457,aracaju,1
+458,aperibe,1
+459,aparecida,1
+460,camboriu,1
+461,ao bernardo do campo,1
+462,angra dos reis rj,1
+463,angra dos reis,1
+464,andira-pr,1
+465,ampere,1
+466,alvorada,1
+467,alvares machado,1
+468,almirante tamandare,1
+469,alambari,1
+470,aguas claras df,1
+471,afonso claudio,1
+472,bahia,1
+473,balenario camboriu,1
+474,bandeirantes,1
+475,barbacena,1
+476,camanducaia,1
+477,california,1
+478,caieiras,1
+479,cachoeira do sul,1
+480,cacador,1
+481,buritama,1
+482,brotas,1
+483,brejao,1
+484,brasilia df,1
+485,braco do norte,1
+486,bonfinopolis de minas,1
+487,bombinhas,1
+488,bom jesus dos perdoes,1
+489,bom jardim,1
+490,bofete,1
+491,bocaiuva do sul,1
+492,bertioga,1
+493,belo horizont,1
+494,bebedouro,1
+495,barro alto,1
+496,barrinha,1
+497,barra velha,1
+498,barbacena/ minas gerais,1
+499,garuva,1
+500,governador valadares,1
+501,parana,1
+502,mateus leme,1
+503,mombuca,1
+504,mogi das cruzes / sp,1
+505,mogi das cruses,1
+506,mococa,1
+507,mirandopolis,1
+508,mineiros do tiete,1
+509,minas gerais,1
+510,miguelopolis,1
+511,messias targino,1
+512,medianeira,1
+513,maua/sao paulo,1
+514,massaranduba,1
+515,monte alto,1
+516,marica,1
+517,marialva,1
+518,marapoama,1
+519,mandirituba,1
+520,mandaguari,1
+521,mandaguacu,1
+522,manaus,1
+523,mamanguape,1
+524,mairinque,1
+525,mage,1
+526,macatuba,1
+527,monte alegre do sul,1
+528,monte siao,1
+529,guaimbe,1
+530,orlandia,1
+531,paraiso do sul,1
+532,paraiba do sul,1
+533,parai,1
+534,paracambi,1
+535,palotina,1
+536,paincandu,1
+537,pacatuba,1
+538,ouro preto,1
+539,ouro fino,1
+540,ourinhos,1
+541,orleans,1
+542,oliveira,1
+543,monteiro lobato,1
+544,olimpia,1
+545,novo horizonte,1
+546,"novo hamburgo, rio grande do sul, brasil",1
+547,nova trento,1
+548,nova petropolis,1
+549,nova lima,1
+550,nhandeara,1
+551,neopolis,1
+552,muriae,1
+553,muqui,1
+554,mucambo,1
+555,luziania,1
+556,luiz alves,1
+557,louveira,1
+558,igrejinha,1
+559,itabira,1
+560,irece,1
+561,irati,1
+562,ipua,1
+563,ipe,1
+564,ipaussu,1
+565,imigrante,1
+566,imbituva,1
+567,imbe,1
+568,ilicinea,1
+569,ilheus,1
+570,icara,1
+571,abadia de goias,1
+572,ibirite,1
+573,ibia,1
+574,horizontina,1
+575,holambra,1
+576,guiricema,1
+577,guariba,1
+578,guaratingueta,1
+579,guarapuava,1
+580,guara,1
+581,guanhaes,1
+582,guanambi,1
+583,itaborai,1
+584,itapema,1
+585,itapeva,1
+586,itaporanga,1
+587,leme,1
+588,laranjeiras do sul,1
+589,lambari,1
+590,laguna,1
+591,lagoa santa,1
+592,lages - sc,1
+593,juzeiro do norte,1
+594,jussara,1
+595,joao pinheiro,1
+596,joao monlevade,1
+597,ji parana,1
+598,jarinu,1
+599,jaragua,1
+600,japira,1
+601,janauba,1
+602,jambeiro,1
+603,jales,1
+604,jaciara,1
+605,jacarei / sao paulo,1
+606,ivoti,1
+607,itirapina,1
+608,itau de minas,1
+609,itapui,1
+610,xaxim,1
