@@ -35,7 +35,6 @@ with col[1]:
     customer_location = pd.read_csv('./dashboard/customer_location.csv')
     customer_location.rename(columns={'geolocation_lat':'lat','geolocation_lng':'lon'},inplace=True)
     center_map = [customer_location['lat'].mean(),customer_location['lon'].mean()]
-    print('center ',center_map)
     st.map(customer_location,zoom=2)
 
 with col[2]:
