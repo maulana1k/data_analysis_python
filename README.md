@@ -39,9 +39,3 @@ streanlit run dashboard/dashboard.py
 ```
 
 ### Live Demo: [brazil-ecommerce.streamlit.app](https://brazil-ecommerce.streamlit.app)
-
-## 🙌 Kreator
-
-#### Nama: Maulana Imamul Khaq
-
-#### Email: mm930199@gmail.com
