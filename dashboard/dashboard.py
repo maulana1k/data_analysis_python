@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot  as plt
 
 st.set_page_config(
     page_title="Dashboard E-commerce Brazil",
@@ -36,6 +37,14 @@ with col[1]:
     customer_location.rename(columns={'geolocation_lat':'lat','geolocation_lng':'lon'},inplace=True)
     center_map = [customer_location['lat'].mean(),customer_location['lon'].mean()]
     st.map(customer_location,zoom=2)
+
+    st.markdown('### Payment Type Usage')
+    payment = pd.read_csv('./dashboard/payment_type_count.csv')
+    payment.rename(columns={'payment_type':'Payment Type','count':'Count'},inplace=True)
+    # fig, ax = plt.subplots()
+    # ax.pie(sizes=payment['Count'],labels=payment['Payment Type'])
+    st.bar_chart(payment,y='Count',x='Payment Type')
+    # st.pyplot(fig)
 
 with col[2]:
     st.markdown('### Customer Cities')
