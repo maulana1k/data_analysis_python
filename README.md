@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## 📈 Menjalankan Aplikasi Dashboard
 
 ```sh
-streanlit run dashboard/dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 ### Live Demo: [brazil-ecommerce.streamlit.app](https://brazil-ecommerce.streamlit.app)
